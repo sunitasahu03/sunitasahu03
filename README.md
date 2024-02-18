@@ -1,4 +1,3 @@
-README
 Hello World!
 I am Sunita Sahu, a passionate and driven student pursuing a Bachelor's degree in Computer Science and Engineering (B.Tech CSE) at Gandhi Institute of Engineering and Technology, Gunupur.
 Coming to my dedication, I'm into exploring the vast realms of technology and honing my skills in the world of programming and development.
