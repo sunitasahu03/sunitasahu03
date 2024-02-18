@@ -54,4 +54,4 @@ I consider myself a lifelong learner, always seeking opportunities to enhance my
 Let's Connect!
 I'm enthusiastic about connecting with fellow developers, industry professionals, and anyone who shares a passion for technology. Feel free to reach out to me on LinkedIn for collaboration, discussions, or just to share your favorite programming memes!
 
-Happy coding! 🚀
+Happy coding!
